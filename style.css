@@ -1,6 +1,9 @@
-p{
+P{
     text-align: center;
 }
 body{
-    background: #404d86;
+    background: rgb(153, 178, 224);
+}
+#foto{
+    width: 100%;
 }
